@@ -1,0 +1,6 @@
+langgraph 
+langchain-deepseek
+python-dotenv
+
+Ipython
+streamlit
